@@ -1,0 +1,15 @@
+# Firebase secret JSON
+umeed-2d7e6-firebase-adminsdk-s32ij-1c9976d6c1.json
+
+# Python virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+umeed-2d7e6-firebase-adminsdk-s32ij-1c9976d6c1.json
+.venv/
+.env
